@@ -1,0 +1,2 @@
+# Turismo-Tec
+es un producto, de software, que se enfoca en que los usuarios puedan realizar turismo, y con la fecha en la que se encuentre, poder recomendar destinos según el clima y eventos que se están propiciando en la zona a visitar. Además de los destinos más económicos según la fecha del momento de la consulta. Realizando estas consultas por medio de un algoritmo, el cual reúne la información requerida 
